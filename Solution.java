@@ -9,6 +9,7 @@ class Solution {
             this.level = level;
         }
     }
+    
     // examples and problem from https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
     public static void main(String[] args) {
         Solution sol = new Solution();
